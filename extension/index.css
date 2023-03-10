@@ -1,0 +1,25 @@
+body{
+    background:black;
+    color:white;
+    font-color:white;
+}
+h1{
+    margin:10px;
+    text-align:Justify;
+    text-shadow:5px 5px gray;
+    text-align: center;
+}
+p{
+    line-height:1.8;
+    word-spacing:10px;
+    text-align:Justify;
+    
+  
+   
+}
+img{
+    border: 1px solid white;
+  border-radius: 4px;
+  padding: 5px;
+  width: 250px;
+}
